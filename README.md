@@ -53,7 +53,7 @@ docker compose up --build -d
 docker compose ps
 ```
 
-3.View logs:
+3. View logs:
 ```
 docker compose logs -f
 ```
