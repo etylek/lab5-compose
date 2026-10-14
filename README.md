@@ -5,7 +5,7 @@ This project is a multi-container web application built using Docker Compose as 
 
 ---
 
-## roject Architecture & Components
+## Project Architecture & Components
 - **Backend API (`api/`):** Python Flask application handling HTTP requests, user creation, database transactions, and Redis caching.
 - **Database (`db`):** PostgreSQL 15 container storing persistent user data.
 - **Cache (`redis`):** Redis 7 container handling high-performance caching for user lookups.
