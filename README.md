@@ -43,12 +43,12 @@ DB_NAME=labdb
 API_PORT=5000
 ```
 ## How to Run the Application
-1.
+1. Build and start all containers in detached mode:
 ```
 docker compose up --build -d
 ```
 
-2.
+2. Check container statuses:
 ```
 docker compose ps
 ```
